@@ -19,7 +19,7 @@ body{
 }
 .normal{
   text-align: center;
-  background-image: url(Pictures/Vintage-Parchment-Paper-Texture.jpg);
+  background-image: url(Vintage-Parchment-Paper-Texture.jpg);
   background-repeat: repeat-y  ;
   /* background-attachment: fixed; */
   background-size: 1300px;
