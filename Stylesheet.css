@@ -1,0 +1,55 @@
+/* *{
+  margin: 0;
+  padding: 0;
+} */
+img{
+  width: 500px;
+}
+a{
+  target: _blank;
+  text-decoration: none;
+  color: black;
+}
+body{
+  text-align: center;
+  font-family: OCRA;
+}
+.title{
+  font-size: 300%
+}
+.normal{
+  text-align: center;
+  background-image: url(Pictures/Vintage-Parchment-Paper-Texture.jpg);
+  background-repeat: repeat-y  ;
+  /* background-attachment: fixed; */
+  background-size: 1300px;
+}
+.channel{
+  text-align: center;
+  padding: 20px;
+  border: 3px dashed rgb(20,20,20);
+  border-radius: 4px;
+  width: 550px;
+  margin: 10px;
+  float: left;
+  background: rgba(0,0,0,0.3)
+}
+.scdchannel{
+  float: right;
+}
+#channels{
+display: flex;
+justify-content: center;
+}
+
+#HW{
+  border-radius: 100%
+}
+@font-face {
+  font-family: OCRA;
+  src: url(C:\Users\anime\Desktop\hjemmeside\Fonts\OCRA\OCR-A.ttf);
+}
+
+@media only screen and (max-width) {
+
+}
